@@ -1,0 +1,3 @@
+Role,Message
+User,"[TextContentBlock(text=Text(annotations=[], value='I need to solve `8x + 22 = 32`. Can you help me?'), type='text')]"
+Assistant,"[TextContentBlock(text=Text(annotations=[], value=""Sure! I can help you solve the equation 8x + 22 = 32.\nTo do this, we will first subtract 22 from both sides of the equation and then divide by 8 to find the value of x. Let's calculate it.""), type='text')]"
